@@ -1,0 +1,11 @@
+{
+    "character": [
+
+    ],
+    "category" : [
+
+    ],
+    "token" : "token",
+    "delaycharacter" : 3000,
+    "delaycategory" : 10000
+}
